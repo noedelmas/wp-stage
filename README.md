@@ -1,0 +1,2 @@
+# wordpress-stage
+ wp stage
